@@ -27,7 +27,7 @@ TailorThat is a resume customization tool built with Next.js that uses Gemini AI
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tailor-that.git
+git clone https://github.com/natesasapan/tailor-that.git
 
 # Navigate to the project directory
 cd tailor-that
