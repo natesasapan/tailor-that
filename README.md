@@ -58,17 +58,17 @@ yarn dev
 
 1.  Upload your existing resume
 2.  Paste the job description
-3.  Click "Tailor Resume"
+3.  Click "Go!"
 4.  Review AI suggestions and make any final adjustments
 5.  Download your tailored resume
 
-## 🛣️ Roadmap
+## 🛣️ To-do
 
--   [ ] Resume template library
--   [ ] Cover letter generation
--   [ ] LinkedIn profile optimization
--   [ ] Interview preparation suggestions
--   [ ] Job application tracking
+-   [⏳] UI Design
+-   [ ] Gemini API Testing
+-   [ ] Link Frontend and Backend
+-   [ ] Error Handling
+-   [ ] Public Release
 
 ## 🤝 Contributing
 
