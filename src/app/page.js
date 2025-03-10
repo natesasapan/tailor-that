@@ -30,7 +30,7 @@ export default function Home() {
               alt='tailorthat logo'
             />
           </div>
-          <a href='https://github.com'><h2>GitHub</h2></a>
+          <a href='https://github.com/natesasapan/tailor-that'><h2>GitHub</h2></a>
           <a href='https://careercenter.georgetown.edu/major-career-guides/resumes-cover-letters/resume-formatting-tips/'><h3>Formatting</h3></a>
         </div>
 
