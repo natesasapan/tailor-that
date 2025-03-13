@@ -64,10 +64,10 @@ yarn dev
 
 ## 🛣️ To-do
 
--   [⏳] UI Design
--   [ ] Gemini API Testing
--   [ ] Link Frontend and Backend
--   [ ] Error Handling
+-   [✅] UI Design
+-   [✅] Gemini API Testing
+-   [✅] Link Frontend and Backend
+-   [⏳] Error Handling
 -   [ ] Public Release
 
 ## 🤝 Contributing
